@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarav-g123" alt="aarav-g123" /></a> </p>
 
-- 🔭 I’m currently working on [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+- 🔭 I’m currently working on [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?utm_source=google&utm_campaign=19339199037&utm_medium=cpc&utm_term=harvard%20cs50%20online&hsa_acc=7245054034&hsa_cam=19339199037&hsa_grp=145482383700&hsa_ad=642397268536&hsa_src=g&hsa_tgt=kwd-422823376443&hsa_kw=harvard%20cs50%20online&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIi82juIOJgQMVwtTtCh3D3wxTEAAYASAAEgKyV_D_BwE)
 
 - 🌱 I’m currently learning **Flutter and app development**
 
